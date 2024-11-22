@@ -36,6 +36,7 @@ subdir-y += sunplus
 subdir-y += synaptics
 subdir-y += ti
 subdir-y += unisoc
+subdir-y += vita
 subdir-y += vt8500
 subdir-y += xen
 subdir-y += xilinx
